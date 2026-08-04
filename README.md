@@ -42,7 +42,7 @@ The platform helps administrators, faculty members, and students manage academic
 - [x] Project Planning
 - [x] Jira & Confluence Setup
 - [x] GitHub Repository Setup
-- [ ] Flask Application Setup
+- [x] Flask Application Setup
 - [ ] Database Design
 - [ ] Authentication Module
 - [ ] Student Management
